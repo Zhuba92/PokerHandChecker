@@ -6,6 +6,11 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * The Poker class contains all the methods used to determine whether a hand meets certain criteria.
+ * @author Zach Huba
+ */
+
 public class Poker
 {
     public boolean isStraight(List<Card> hand)

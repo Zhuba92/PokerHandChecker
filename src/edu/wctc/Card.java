@@ -1,5 +1,10 @@
 package edu.wctc;
 
+/**
+ * The Card class represents what a card consists of.
+ * @author Zach Huba
+ */
+
 public class Card
 {
     private String face;

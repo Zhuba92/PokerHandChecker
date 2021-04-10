@@ -10,6 +10,11 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * The PokerTest class implements JUnit tests for all the Poker class methods.
+ * @author Zach Huba
+ */
+
 class PokerTest
 {
     Deck deck = new Deck();

@@ -3,6 +3,11 @@ package edu.wctc;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * The Deck class is a list of cards.
+ * @author Zach Huba
+ */
+
 public class Deck
 {
     List<Card> deck = new ArrayList<>();
